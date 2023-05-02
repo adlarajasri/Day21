@@ -1,0 +1,6 @@
+D:\UST\Day21\BasicMatch\BasicMatch\bin\Debug\BasicMatch.dll
+D:\UST\Day21\BasicMatch\BasicMatch\bin\Debug\BasicMatch.pdb
+D:\UST\Day21\BasicMatch\BasicMatch\obj\Debug\BasicMatch.csproj.AssemblyReference.cache
+D:\UST\Day21\BasicMatch\BasicMatch\obj\Debug\BasicMatch.csproj.CoreCompileInputs.cache
+D:\UST\Day21\BasicMatch\BasicMatch\obj\Debug\BasicMatch.dll
+D:\UST\Day21\BasicMatch\BasicMatch\obj\Debug\BasicMatch.pdb
