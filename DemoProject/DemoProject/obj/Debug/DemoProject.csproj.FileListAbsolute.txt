@@ -1,0 +1,8 @@
+D:\UST\Day21\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+D:\UST\Day21\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+D:\UST\Day21\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+D:\UST\Day21\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+D:\UST\Day21\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day21\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+D:\UST\Day21\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+D:\UST\Day21\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
